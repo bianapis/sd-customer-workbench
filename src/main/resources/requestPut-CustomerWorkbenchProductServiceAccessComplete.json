@@ -1,0 +1,14 @@
+{
+  "customerWorkbenchDeviceAccessPermissions" : "www.xyzbank.com",
+  "customerWorkbenchContactReference" : "CWCR7458",
+  "accessStartEndTime" : "01-01-1970 00:00:00",
+  "customerDetailsPreferences" : {},
+  "customerReference" : "CR844756",
+  "customerWorkbenchOperatingSessionReference" : "CWOSR78546",
+  "customerResidentFiles" : {},
+  "customerWorkbenchProductServiceAccessReference" : "CWPSAR75893",
+  "customerWorkbenchDeviceReference" : "CWDR78546",
+  "productServiceMenu" : {},
+  "customerWorkbenchProductServiceAccessRecord" : {},
+  "productServiceMenuAccessLog" : {}
+}
